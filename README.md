@@ -6,4 +6,6 @@ Permite crear una lista de tareas, modificarla, marcar como completadas y otras 
 
 ```
 npm install
+
+node app.js
 ```
