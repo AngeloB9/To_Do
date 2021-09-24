@@ -10,7 +10,7 @@
     "Javascript",
     "Node"
   ],
-  "author": "Angelo Benavidez <benavidezangelo9@gmail.com>",
+  "author": "Angelo Benavidez",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
